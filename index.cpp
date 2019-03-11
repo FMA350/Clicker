@@ -7,9 +7,6 @@
 #include <winuser.h>
 using namespace std;
 
-const int x_size = 1920;
-const int y_size = 1080;
-
 int main()
 {
 	int x, y, temp_x, temp_y, time;
